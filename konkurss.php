@@ -65,7 +65,7 @@ UPDATE konkurss SET kommentaar=CONCAT(kommentaar, ?) WHERE id=?");
         <?php } ?>
     <li><a href="konkurss.php">Kasutaja leht</a></li>
 
-        <li><a href="https://github.com/NikitaRimitsen/Konkurss_new">GitHub</a></li>
+        <li><a href="https://github.com/NikitaRimitsen/Konkurss_TheEnd">GitHub</a></li>
     </ul>
 </nav>
 <h1>Fotokonkurss "Ilus pilti"</h1>
